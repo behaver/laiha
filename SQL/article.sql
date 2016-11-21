@@ -1,0 +1,10 @@
+CREATE TABLE article
+(
+	id INT UNSIGNED NOT NULL AUTO_INCREMENT,
+	content TEXT NOT NULL,
+	PRIMARY KEY (id)
+
+) 
+;
+
+

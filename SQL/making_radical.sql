@@ -1,0 +1,11 @@
+CREATE TABLE making_radical
+(
+	id INT UNSIGNED NOT NULL AUTO_INCREMENT,
+	word INT UNSIGNED NOT NULL,
+	radical INT UNSIGNED NOT NULL,
+	PRIMARY KEY (id)
+
+) 
+;
+
+

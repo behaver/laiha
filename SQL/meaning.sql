@@ -1,0 +1,11 @@
+CREATE TABLE meaning
+(
+	id INT UNSIGNED NOT NULL AUTO_INCREMENT,
+	word_pinyin INT UNSIGNED NOT NULL,
+	content VARCHAR(255) NOT NULL,
+	PRIMARY KEY (id)
+
+) 
+;
+
+

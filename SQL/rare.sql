@@ -1,0 +1,10 @@
+CREATE TABLE rare
+(
+	id INT UNSIGNED NOT NULL AUTO_INCREMENT,
+	image CHAR(15),
+	PRIMARY KEY (id)
+
+) 
+;
+
+

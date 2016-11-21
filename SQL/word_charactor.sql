@@ -1,0 +1,11 @@
+CREATE TABLE word_charactorset
+(
+	id INT UNSIGNED NOT NULL AUTO_INCREMENT,
+	word INT UNSIGNED NOT NULL,
+	charactor TINYINT UNSIGNED NOT NULL,
+	PRIMARY KEY (id)
+
+) 
+;
+
+
